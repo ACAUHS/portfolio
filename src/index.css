@@ -4,6 +4,12 @@
 
 /* npm run start -> starts the compiler*/
 
+@font-face {
+  font-family: 'BarlowSemi';
+  src: url('./fonts/BarlowSemiCondensed/BarlowSemiCondensed-Regular.ttf');
+  font-weight: 400;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
