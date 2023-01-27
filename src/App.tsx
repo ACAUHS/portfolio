@@ -4,7 +4,7 @@ import { NavBar } from './components/navbar';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-black">
       <NavBar />
     </div>
   );
