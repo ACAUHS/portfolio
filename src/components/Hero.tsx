@@ -1,6 +1,6 @@
 export const Hero = () => {
     return (
-        <div className="container flex flex-col">
+        <div className="container flex flex-col mx-auto">
             <div className="name font-face-bsr text-6xl self-center">
                 <span className="text-orange">J</span><span className="text-whiter">oshua</span><br />
                 <span className="text-orange">G</span><span className="text-whiter">abriel</span><br />
