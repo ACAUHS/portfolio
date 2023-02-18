@@ -8,10 +8,13 @@ function App() {
   return (
     <div className="App">
       <div className='landing-section bg-black'>
-      <NavBar />
-      <Hero />
-      <About />
+      <div className='sticky top-0 z-40 bg-black text-whiter'>
+          <NavBar />
+        </div>
+        <Hero />
+        <About />
       </div>
+      
     </div>
   );
 }
