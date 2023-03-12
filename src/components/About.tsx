@@ -10,8 +10,8 @@ export const About = () => {
                     I mainly work in frontend development, and have an interest in learning the different technologies
                     available in the industry. I am also passionate about music: most notably hip-hop and jazz. 
                 </div>
-                <div className='photo w-1/4 flex-none border-4 border-black'>
-                    <img src={img}></img>
+                <div className='photo w-1/5 flex-none border-4 border-black'>
+                    <img src={img} />
                 </div>
             </div>
         </div>
