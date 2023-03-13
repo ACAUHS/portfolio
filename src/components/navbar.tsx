@@ -2,7 +2,7 @@
 
 export const NavBar = () => {
     return (
-        <div className='navbar flex justify-between py-6 ml-24 mr-24 font-face-bsr text-lg'>
+        <div className='navbar flex justify-between mx-10 pb-5 font-face-bsr text-lg'>
             <div className='mt-4 font-semibold'>JGC</div>
             <nav className='flex gap-8 mt-4 ml-12'>
                 <a>About</a>
