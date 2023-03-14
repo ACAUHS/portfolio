@@ -1,4 +1,4 @@
-export const Skills = () => {
+export const Work = () => {
     return (
         <div className="font-face-bsr text-black">
             <div className="bg-grey">

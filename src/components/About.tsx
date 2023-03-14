@@ -17,3 +17,5 @@ export const About = () => {
         </div>
     )
 }
+
+/**redo About so that 'Skills' are in it too */
